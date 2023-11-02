@@ -1,0 +1,5 @@
+pyTelegramBotAPI==4.9.0
+python-telegram-bot==20.6
+telebot==0.0.5
+gspread==5.11.3
+oauth2client==4.1.3
